@@ -13,7 +13,7 @@ Pipeline follows close to this Nature [protocol](https://doi.org/10.1038/nprot.2
 ## Dependencies
 Recommended to be used on a high performance cluster/ supercomputer with a job submission system. Alabama Super Computer used for original procedure. 
 ## Scripts
-1. Bash script to process genomic data ([fastqc](https://github.com/s-andrews/FastQC), [gatk](https://gatk.broadinstitute.org/hc/en-us)) and filter sequence variants ([bcftools](https://samtools.github.io/bcftools/bcftools.html)).
+1. Bash script to process genomic data ([fastqc](https://github.com/s-andrews/FastQC).
 2. Python script to trim Illumina adapters used during sequencing using [cutadapt](https://cutadapt.readthedocs.io/en/stable/).
 3. Bash script to use [HISAT2](http://daehwankimlab.github.io/hisat2/), and [stringtie](https://ccb.jhu.edu/software/stringtie/) for read alignment, assembly and expression estimation. 
 4. R script to provide statistics on differentially expressed transcripts and graphics to display results of the analysis. Statistics done using [ballgown](https://www.bioconductor.org/packages/devel/bioc/manuals/ballgown/man/ballgown.pdf)
