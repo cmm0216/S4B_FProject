@@ -7,7 +7,6 @@ Tropospheric ozone is one of many greenhouse gases that is an increasingly dange
 
 I aim to examine the Capsicum annuum-Xanthomonas pathosystem, and how this pathosystem will be effected in the presence of elevated tropospheric ozone. This pathosystem is viable to study given the effectiveness of Xanthomonas bacterial spotting is on Solonaceaous species, especially in our region in the southeastern United States. In using the following bioinformatic pipeline, I hope to provide a detailed process on how we were able to sequence RNA transcripts to understand the regulation and crosstalk of common pathogen and O3 defense genes in Capsicum annuum. 
 
-contribute to these phenotypes in model organisms are genetically divergent/differentiated in these garter snake ecotypes. To this aim, we will calculate Tajima's D, Fst, and Dxy in pair-wise fashion to understand whether inter-ecotypic (within) population comparisons significantly differ from intra-ecotypic (between) population comparisons.
 
 ![Projected-Pipeline](./Bioinfographic.png)
 Pipeline follows close to this Nature [protocol](https://doi.org/10.1038/nprot.2016.095)
